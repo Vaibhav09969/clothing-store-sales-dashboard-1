@@ -1,9 +1,3 @@
-Great! 🚀 I’ll create a professional **README.md** for your **Sales Dashboard** project based on the screenshot you provided.
-
-Here’s a draft:
-
----
-
 # 📊 Sales Dashboard
 
 ## 📌 Overview
@@ -97,7 +91,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ---
 
 ✨ Developed with passion for **data visualization & analytics**
-
----
-
-Would you like me to also **generate a ready-to-use README.md file** (so you can directly upload it to GitHub), or just keep this as text for now?
