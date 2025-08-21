@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard
+# 📊 DMart Sales Dashboard
 
 ## 📌 Overview
 
